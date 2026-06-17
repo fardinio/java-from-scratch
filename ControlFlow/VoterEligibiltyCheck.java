@@ -5,8 +5,13 @@ public class VoterEligibiltyCheck {
         System.out.print("Enter your age: ");
         int age = input.nextInt();
 
-        if(age>=18){
-            System.out.println("Congratualtions! You are eligible for vote.");
+        if(age< 18){
+            System.out.println("Sorry! You are not eligible for vote.");
         }
+        else{
+            System.out.println("Congratulations! Your are eligible to vote.");
+        }
+
+
     }
 }
