@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ControlFlow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab Experiment" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Object-Oriented-Programming" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
